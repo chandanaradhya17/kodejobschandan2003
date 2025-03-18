@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Chandan",
+      "email": "chandan123@gmail.com",
+      "password": "$2a$10$N/J0ttBT81x0/x1N1.k7p.Q76qrSymQSMK0m96VX8UCXaQmIQyNR2",
+      "createdAt": "2025-03-15T05:56:39.158Z"
+    },
+    {
+      "id": "2",
+      "name": "Cs",
+      "email": "chandankichcha1779@gmail.com",
+      "password": "$2a$10$q8cwWKFEfWeTTib6swkGNuGmiT65NwvT28KmqIAwnjhtNjv2Yd.Zm",
+      "createdAt": "2025-03-15T05:57:55.540Z"
+    },
+    {
+      "id": "3",
+      "name": "Virat",
+      "email": "virat@gmail.com",
+      "password": "$2a$10$47.HbvdIljQS9Rk0ypvqeOkt/oBXc.Bc1lnI2H3Q.EtjQ2YJp7h12",
+      "dob": "2003-12-17",
+      "createdAt": "2025-03-15T08:57:54.308Z"
+    },
+    {
+      "id": "4",
+      "name": "Kohli",
+      "email": "kohli@gmail.com",
+      "password": "$2a$10$yBeKMtHJXNLkUzTyhRYbNu75vHvMlASICo2GBwE.K9S/F92PgnZ8u",
+      "dob": "2007-12-05",
+      "age": 17,
+      "createdAt": "2025-03-15T09:01:40.147Z"
+    },
+    {
+      "id": "5",
+      "name": "hardik",
+      "email": "hardik@gmail.com",
+      "password": "$2a$10$0uyst/gBcRUwNS53NBdWIOhjJLNNqBifLAO6QSPYIOwPU3jH983f6",
+      "dob": "2000-02-01",
+      "age": 25,
+      "createdAt": "2025-03-16T14:39:37.043Z"
+    },
+    {
+      "id": "6",
+      "name": "Ashwith",
+      "email": "ass@gmail.com",
+      "password": "$2a$10$X.h7DMXjFa7Xk.UrRA/d4.2x/mzyYs.Lgm2C3nHeXW2XdvidvJipW",
+      "dob": "2001-10-17",
+      "age": 23,
+      "createdAt": "2025-03-17T08:32:51.038Z"
+    }
+  ]
+}

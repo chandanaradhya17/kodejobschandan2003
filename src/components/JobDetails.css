@@ -1,0 +1,54 @@
+.job-details-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.job-details-container h1 {
+  color: #1a237e;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.job-details-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.job-details-container p {
+  color: #555;
+  margin: 5px 0;
+}
+
+.apply-button {
+  display: inline-block;
+  background: #2196f3;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.apply-button:hover {
+  background: #1976d2;
+}
+
+a {
+  display: inline-block;
+  background: #2196f3;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+a:hover {
+  background: #1976d2;
+} 
